@@ -1,0 +1,2 @@
+# RentMyCam_FE
+deployAmplify
