@@ -1,4 +1,5 @@
-APLICACION WEB RENT MY CAM
+                                                                          APLICACION WEB RENT MY CAM
+                                                                          
 Es una plataforma web accesible y eficiente que permita el alquiler de equipos fotográficos de alta calidad, facilitando el acceso a tecnología profesional del area y personas aficionadas sin incurrir en gastos elevados.
 
 Acceso fácil y rápido al alquiler de equipos fotográficos: La plataforma permite a los usuarios visualizar, seleccionar y alquilar cámaras y accesorios de forma sencilla y eficiente.
